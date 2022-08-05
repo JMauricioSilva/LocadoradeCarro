@@ -1,7 +1,7 @@
 # Opa Bem Vindo 😁 
 # Locadora de Carros 🚗
 
-Esse simples projeto (Que ainda não está como eu gostaria hehehe) é um avaliação feita na faculdade. Ele constitui em um sistema de aluguel de carros onde tem as seguintes funções:
+Esse simples projeto é um avaliação feita na faculdade. Ele constitui em um sistema de aluguel de carros onde tem as seguintes funções:
 
 - Cadastrar um Carro com suas informações básica;
 - Fazer um Aluguel informando o nome de quem efetuou a locação, a data tanto da locação como da devolução;
@@ -13,3 +13,7 @@ P que foi utilizado:
 - Css;
 - Php;
 - Banco de Dados (MySQL).
+
+Link Youtube - Projeto
+
+https://www.youtube.com/watch?v=1GLXlZgUNo0&ab_channel=MauricioSilva
